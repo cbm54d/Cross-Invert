@@ -13,17 +13,19 @@
 }
 
 #numBoxes {
-    width: 550px;
+    width: 560px;
     display:inline-block;
 }
 
 #wrapper {
-    width: 604px;
+    padding-top: 100px;
+    width: 610px;
     /*display:inline-block;*/
+    margin: 0 auto;
 }
 
 #grid {
-    width:552px;
+    width:560px;
 }
 
 .numBox {
