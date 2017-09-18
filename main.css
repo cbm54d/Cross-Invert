@@ -10,6 +10,7 @@
     bottom:0;
     width:auto;
     height:50px;
+    float: left;
 }
 
 #numBoxes {
@@ -19,13 +20,14 @@
 
 #wrapper {
     padding-top: 100px;
-    width: 610px;
+    width: 640px;
     /*display:inline-block;*/
     margin: 0 auto;
 }
 
 #grid {
-    width:560px;
+    /*width:560px;*/
+    float: left;
 }
 
 .numBox {
